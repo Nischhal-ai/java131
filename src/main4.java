@@ -12,6 +12,4 @@ public class main4 extends prog4
     {
         System.out.println("Roll no "+roll_no +" has given exam");
     }
-
-
 }

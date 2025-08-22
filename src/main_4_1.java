@@ -5,4 +5,3 @@ public class main_4_1 {
         s1.give_exam();
     }
 }
-g
