@@ -13,7 +13,5 @@ public class prog5 {
         return grade;
     }
 
-    public void setGrade(String grade) {
-        this.grade = grade;
-    }
+    
 }
