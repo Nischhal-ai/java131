@@ -3,6 +3,6 @@ public class main7 {
         prog7 cl=new prog7();
         cl.Area(25,56,98);
         cl.Area(58);
-        cl.Area();
+        cl.Area(25);
     }
 }
