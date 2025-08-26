@@ -13,5 +13,5 @@ public class prog5 {
         return grade;
     }
 
-    
+
 }
