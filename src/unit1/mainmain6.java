@@ -1,3 +1,5 @@
+package unit1;
+
 public class mainmain6 {
     public static void main(String[] args) {
         prog6 p1=new prog6("Meerut");

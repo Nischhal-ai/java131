@@ -1,3 +1,5 @@
+package unit1;
+
 public class prog6 {
     public String address;
     public prog6(String address) {

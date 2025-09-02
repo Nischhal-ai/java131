@@ -1,3 +1,5 @@
+package unit1;
+
 public class prog7 {
     double area;
     public void Area(double l,double b)
