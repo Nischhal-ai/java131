@@ -32,7 +32,5 @@ public class prog9
         System.out.println(hs);
         hs.removeIf(str->str.contains("90"));
         System.out.println(hs);
-
-
     }
 }
