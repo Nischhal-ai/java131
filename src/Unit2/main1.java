@@ -5,7 +5,7 @@ public class main1 {
         prog1 th1=new prog1();
         th1.start();
 //        System.out.println(th1.getName());
-//        th1.setName("FIRST THREAD");
+//       th1.setName("FIRST THREAD");
 //        System.out.println(th1.getName());
 //        System.out.println(th1.getPriority());
 //        th1.setPriority(9);

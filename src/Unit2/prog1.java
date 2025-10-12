@@ -4,7 +4,8 @@ public class prog1 extends Thread{
     public void start()
     {
         for(int i=0;i<10;i++){
-            try{
+            try
+            {
                 Thread.sleep(2000);
             }
             catch(Exception e)
